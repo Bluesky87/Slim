@@ -1,0 +1,7 @@
+default:
+    suites:
+        default:
+            contexts:
+              - FeatureContext:
+                  header_name: Authorization
+                  header_value: d0763edaa9d9bd2a9516280e9044d885
